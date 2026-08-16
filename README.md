@@ -43,19 +43,14 @@
 
 <img
   align="right"
-  width="190px"
-  height="190px"
+  width="185px"
+  height="185px"
   alt="Coding"
   src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
 />
 
-<img
-  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-  width="30px"
-/>
-&nbsp;<b><i>About me...</i></b>
-
-<br><br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+&nbsp;<b><i>About me...</i></b><br>
 
 ✔ 🎓 Electronic Information student at <b>Hunan University</b><br>
 ✔ 🏫 National Graduate College for Elite Engineers<br>
@@ -63,54 +58,47 @@
 ✔ 💻 Programming with <b>Python, C, and C++</b><br>
 ✔ 🌱 Exploring AI technologies and improving my research skills<br>
 
-<br><br>
+<br>
 
 🔬 &nbsp;<b><i>Research interests...</i></b>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-3776AB?style=flat-square&logo=pytorch&logoColor=white" height="25">
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6F42C1?style=flat-square&logoColor=white" height="25">
+  <img
+    src="https://img.shields.io/badge/Deep%20Learning-3776AB?style=flat-square&logo=pytorch&logoColor=white"
+    height="24"
+    alt="Deep Learning"
+  >
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/Artificial%20Intelligence-6F42C1?style=flat-square"
+    height="24"
+    alt="Artificial Intelligence"
+  >
 </p>
 
-<br>
-
-<img
-  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-  width="30px"
-/>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 &nbsp;<b><i>My working tools...</i></b>
 
-<br><br>
-
 <p align="center">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="PyTorch"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow"></code>
-
-  <br>
-
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="NumPy"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" alt="SciPy"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code"></code>
-
-  <br>
-
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="CMake"></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"></code>
+  <code><img height="46" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
+  <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C"></code>
+  <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
+  <code><img height="46" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter"></code>
+  <code><img height="46" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="PyTorch"></code>
+  <code><img height="46" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow"></code>
+  <code><img height="46" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="NumPy"></code>
+  <code><img height="46" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" alt="SciPy"></code>
+  <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV"></code>
+  <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda"></code>
+  <code><img height="46" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"></code>
+  <code><img height="46" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code"></code>
+  <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub"></code>
+  <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"></code>
+  <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker"></code>
+  <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="CMake"></code>
+  <code><img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash"></code>
+  <code><img height="46" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"></code>
 </p>
-
-<br>
 
 <hr>
 
