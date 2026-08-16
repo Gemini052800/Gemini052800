@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi, I'm Maohua Liu 👋
@@ -88,4 +87,3 @@
 **Keep learning, keep exploring.**
 
 </div>
-```
