@@ -1,78 +1,74 @@
 <div align="center">
 
-# Hi, I'm Maohua Liu 👋
+<img src="https://komarev.com/ghpvc/?username=Gemini052800&label=Profile%20Views&color=0e75b6&style=flat" />
 
-### Electronic Information @ Hunan University
+<br><br>
 
-![Deep Learning](https://img.shields.io/badge/Research-Deep%20Learning-blue?style=flat-square)
-![Artificial Intelligence](https://img.shields.io/badge/Focus-Artificial%20Intelligence-purple?style=flat-square)
-![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat-square)
-![C](https://img.shields.io/badge/Language-C-blue?style=flat-square)
-![C++](https://img.shields.io/badge/Language-C++-00599C?style=flat-square)
-
----
-
-### 👨‍💻 About Me
-
-</div>
-
-- 🎓 Electronic Information, **Hunan University**
-- 🔬 Research interests in **Deep Learning** and **Artificial Intelligence**
-- 🧠 Interested in exploring intelligent algorithms and AI applications
-- 💻 Programming with **Python, C and C++**
-- 🌱 Currently learning more about Deep Learning and AI
-
-<br>
-
-### 🔬 Research Interests
-
-<div align="center">
-
-`Deep Learning` • `Artificial Intelligence` • `Machine Learning`
-
-</div>
-
-<br>
-
-### 🛠️ Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=light" />
-
-</div>
-
-<br>
-
-### ⚙️ Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
-
-</div>
+<img src="https://img.shields.io/badge/Research-Deep%20Learning-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Major-Electronic%20Information-2E8B57?style=flat-square" />
 
 <br>
 
 ---
 
-### 📊 GitHub Statistics
+# 你好，我是刘毛华 👋
 
-<div align="center">
+### 湖南大学国家卓越工程师学院 · 电子信息专业
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gemini052800&show_icons=true&hide_border=true" />
+**深度学习 / 人工智能**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemini052800&layout=compact&hide_border=true" />
+<br>
+
+你好，我是刘毛华，目前就读于 **湖南大学国家卓越工程师学院电子信息专业**。  
+我的研究方向主要是 **深度学习与人工智能**，希望通过学习和研究，  
+不断探索人工智能技术及其实际应用。
+
+<br>
+
+*“Keep learning, keep exploring.”* 🌱
 
 </div>
 
 <br>
 
-### 🔥 Contribution Streak
+## 📊 关于我
+
+- 🎓 湖南大学国家卓越工程师学院 · 电子信息专业
+- 🔬 研究方向为 **深度学习**
+- 🤖 关注 **人工智能** 相关技术
+- 💻 使用 **Python、C、C++**
+- 📚 持续学习深度学习与人工智能相关知识
+
+<br>
+
+## 🔬 研究方向
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Gemini052800&hide_border=true" />
+<img src="https://img.shields.io/badge/Deep%20Learning-深度学习-3776AB?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-人工智能-8A2BE2?style=for-the-badge" />
+
+</div>
+
+<br>
+
+## 🛠️ 编程语言
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" height="55" alt="C" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++" />
+
+<br><br>
+
+**Python** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**C** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**C++**
 
 </div>
 
@@ -82,8 +78,8 @@
 
 <div align="center">
 
-### Thanks for visiting 👋
+### 🌱 Keep Learning · Keep Exploring
 
-**Keep learning, keep exploring.**
+感谢访问我的主页 👋
 
 </div>
