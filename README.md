@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gemini052800&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
 </p>
@@ -107,4 +106,3 @@
     src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
   >
 </p>
-```
