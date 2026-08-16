@@ -41,14 +41,6 @@
 
 <br>
 
-<img
-  align="right"
-  width="185"
-  height="185"
-  alt="Coding"
-  src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
->
-
 <p>
   <img
     src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
